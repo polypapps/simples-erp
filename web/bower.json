@@ -1,0 +1,5 @@
+{
+  "name": "gumby",
+  "version": "2.6.3",
+  "main": ["./bundles/simpleserp/js/libs/gumby.min.js", "./bundles/simpleserp/css/gumby.css"]
+}
