@@ -1,0 +1,4 @@
+simples_erp_main:
+    resource: "@SimplesErpMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
