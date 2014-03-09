@@ -1,5 +1,0 @@
-_assetic:
-    resource: .
-    type: assetic
-_app:
-    resource: /home/rodrigo/public_html/simples-erp/app/config/routing_dev.yml
